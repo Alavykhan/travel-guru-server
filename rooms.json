@@ -1,0 +1,29 @@
+[
+    {
+        "id":"1",
+        "title":"Light bright airy stylish apt & safe peaceful stay",
+        "guest":"4 guests   2 bedrooms   2 beds   2 baths",
+        "wifi":"Wif Air conditioning Kitchen",
+        "cancellation":"Cancellation fexibility availiable",
+        "rating":"4.9 (20)",
+        "price":"$34"
+    },
+    {
+        "id":"2",
+        "title":"Light bright airy stylish apt & safe peaceful stay",
+        "guest":"4 guests   2 bedrooms   2 beds   2 baths",
+        "wifi":"Wif Air conditioning Kitchen",
+        "cancellation":"Cancellation fexibility availiable",
+        "rating":"4.8 (10)",
+        "price":"$52"
+    },
+    {
+        "id":"3",
+        "title":"Light bright airy stylish apt & safe peaceful stay",
+        "guest":"4 guests   2 bedrooms   2 beds   2 baths",
+        "wifi":"Wif Air conditioning Kitchen",
+        "cancellation":"Cancellation fexibility availiable",
+        "rating":"4.9 (25)",
+        "price":"$44"
+    }
+]
